@@ -1,5 +1,1 @@
-requests
-dnspython
-ipwhois
-base64
-zlib
+pip install requests dnspython ipwhois base64 zlib
